@@ -345,6 +345,8 @@ int main() {
     q.push(priority_item(500, 2));
     q.push(priority_item(24300, 5));
     q.push(priority_item(777,4));
+    q.push(priority_item(8888,8));
+    q.push(priority_item(546,7));
 
     q.print();
 

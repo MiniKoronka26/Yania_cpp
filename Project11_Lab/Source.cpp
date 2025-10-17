@@ -135,7 +135,7 @@ int main() {
 
 	bus t;
 
-	t.insert(100);
+	/*t.insert(100);*/
 	/*
 	t.insert(95);
 	t.insert(107);

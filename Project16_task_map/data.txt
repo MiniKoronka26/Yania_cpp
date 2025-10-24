@@ -1,0 +1,5 @@
+Book Книга
+Water Вода
+House Будинок
+Friend Друг
+Sun Сонце
